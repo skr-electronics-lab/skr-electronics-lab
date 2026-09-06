@@ -1,45 +1,43 @@
 <div align="center">
 
-<!-- TODO: replace with a real hardware demo GIF — film your radar/boot screen, convert with ezgif.com, commit as assets/demo.gif
-<img src="assets/demo.gif" width="480" alt="SKR Electronics Lab hardware demo" /> -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5E6AD2&center=true&vCenter=true&width=500&lines=%3E+hello%2C+I+build+hardware+that+talks+%F0%9F%93%A1" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5E6AD2&center=true&vCenter=true&width=560&lines=%3E+hello%2C+I+build+hardware+that+talks+%F0%9F%93%A1;%3E+ESP32+%C2%B7+Flutter+%C2%B7+Android+%C2%B7+Arduino" alt="typing" />
 
 # SKR Electronics Lab
 
-**ESP32 firmware · Arduino libraries · open hardware**
+**Embedded firmware · Mobile apps · Arduino libraries**
 
 `making electronics easy for everyone` — India 🇮🇳
 
 [![Website](https://img.shields.io/badge/website-skrelectronicslab.com-5E6AD2?style=flat-square)](https://www.skrelectronicslab.com)
 [![X](https://img.shields.io/badge/X-%40skrelectronics-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/skrelectronics)
-[![YouTube](https://img.shields.io/badge/YouTube-SKR%20Electronics%20Lab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skrelectronics)
 
 </div>
 
 ---
 
-## 🛠️ What I build
+## 🛠️ What I work on
 
-- **Flight & motion hardware** — ADS-B aircraft radar, air mice, IMU trackers on ESP32
-- **Arduino libraries** — button handling, OLED keyboards, LED effects (used by makers worldwide)
-- **Full-stack side** — TypeScript storefronts & web tooling for the lab
+- **Embedded firmware** — ESP32/Arduino C++: radars, air mice, motion trackers
+- **Mobile development** — Android apps & Flutter cross-platform tooling
+- **Arduino libraries** — buttons, OLED keyboards, LED effects
+- **Web** — device dashboards, installers, storefronts
 
 ## 🔥 Featured projects
 
 | Project | What it does |
 |---|---|
-| 📡 [**FlyRadar32**](https://github.com/skr-electronics-lab/flyradar32) | ESP32 + ST7735 live ADS-B aircraft radar with web UI, captive-portal Wi-Fi, 3 radar themes |
-| 🖱️ [**ESP32-Air-Mouse-Pro**](https://github.com/skr-electronics-lab/ESP32-Air-Mouse-Pro) | Control your PC cursor in mid-air with motion — ESP32 + MPU6050 |
-| ⌨️ [**OLEDKeyboard**](https://github.com/skr-electronics-lab/OLEDKeyboard) | Non-blocking on-screen keyboard library for U8g2 OLEDs (upper/lower/symbols) |
+| 📡 [**FlyRadar32**](https://github.com/skr-electronics-lab/flyradar32) | Live ADS-B aircraft radar on ESP32 + ST7735 — multi-provider data, captive-portal Wi-Fi, web dashboard, 3 radar themes |
+| 🖱️ [**ESP32-Air-Mouse-Pro**](https://github.com/skr-electronics-lab/ESP32-Air-Mouse-Pro) | Control your PC cursor in mid-air — ESP32 + MPU6050 |
+| 📐 [**MotionSync3D**](https://github.com/skr-electronics-lab/MotionSync3D-ESP32) | 3D motion-sync firmware for ESP32 with a browser-based installer |
+| ⌨️ [**OLEDKeyboard**](https://github.com/skr-electronics-lab/OLEDKeyboard) | Non-blocking on-screen keyboard library for U8g2 OLED displays |
 | 🔘 [**SKRButton**](https://github.com/skr-electronics-lab/SKRButton) | Advanced button library — long-press, double-tap, toggle, and more |
-| 💡 [**VibeLED**](https://github.com/skr-electronics-lab/VibeLED) | 50+ ready-made LED effects for your Arduino projects |
+| 💡 [**VibeLED**](https://github.com/skr-electronics-lab/VibeLED) | 50+ ready-made LED effects for Arduino projects |
 
 ## ⚙️ Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=cpp,arduino,ts,js,html,css,platformio,git,vscode,raspberrypi&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,arduino,android,dart,flutter,ts,html,css,platformio,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
