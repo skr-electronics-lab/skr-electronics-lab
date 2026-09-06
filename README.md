@@ -26,6 +26,20 @@ IoT & Edge-AI firmware, Android/Flutter apps, Arduino libraries — India 🇮�
 | 🖱️ **[ESP32-Air-Mouse-Pro](https://github.com/skr-electronics-lab/ESP32-Air-Mouse-Pro)** | Mid-air PC cursor control |
 | 📐 **[MotionSync3D](https://github.com/skr-electronics-lab/MotionSync3D-ESP32)** | 3D motion-sync firmware + browser installer |
 
+## 🔧 From the workbench
+
+<div align="center">
+  <a href="https://skrelectronicslab.com/build-your-own-smart-security-camera-motioncam-s3-using-esp32s3-cam-module/"><img src="https://skrelectronicslab.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-7.45.40-PM.webp" width="45%" alt="MotionCam-S3 dashboard" /></a>
+  <a href="https://skrelectronicslab.com/how-to-make-xiaozhi-ai-chatbot-on-pcb/"><img src="https://skrelectronicslab.com/wp-content/uploads/2026/08/complete-pcb-with-all-component-soldered-ready-project-image.webp" width="45%" alt="Xiaozhi AI Chatbot PCB" /></a>
+  <br/>
+  <sub><b>MotionCam-S3</b> security dashboard · <b>Xiaozhi AI</b> chatbot on my custom PCB</sub>
+  <br/><br/>
+  <a href="https://skrelectronicslab.com/how-to-make-xiaozhi-ai-chatbot-on-pcb/"><img src="https://skrelectronicslab.com/wp-content/uploads/2026/08/ikst8mamsiucpfyfflqw.webp" width="45%" alt="Xiaozhi AI Chatbot assembled" /></a>
+  <a href="https://skrelectronicslab.com/how-to-make-xiaozhi-ai-chatbot-on-pcb/"><img src="https://skrelectronicslab.com/wp-content/uploads/2026/08/xiaozhi-pcb-3D-view.webp" width="45%" alt="PCB 3D render" /></a>
+  <br/>
+  <sub>Assembled <b>Xiaozhi AI Chatbot</b> · custom PCB 3D render (EasyEDA)</sub>
+</div>
+
 ## 📱 Apps & libraries
 
 | | |
@@ -36,7 +50,8 @@ IoT & Edge-AI firmware, Android/Flutter apps, Arduino libraries — India 🇮�
 | 💡 **[VibeLED](https://github.com/skr-electronics-lab/VibeLED)** | 50+ LED effects |
 
 ## 📝 Latest tutorials
-<!-- BLOG-POST-LIST:START -->- [Build Your Own Smart Security Camera MotionCam-S3 using ESP32S3 Cam Module](https://skrelectronicslab.com/build-your-own-smart-security-camera-motioncam-s3-using-esp32s3-cam-module/)- [How to make Xiaozhi AI Chatbot on PCB](https://skrelectronicslab.com/how-to-make-xiaozhi-ai-chatbot-on-pcb/)- [ZhiNode MCP Server Pro](https://skrelectronicslab.com/zhinode-mcp-server-pro/)- [PixGen32: Voice-Controlled AI Image Generator using ESP32-S3](https://skrelectronicslab.com/pixgen32-esp32-s3-ai-image-generator/)- [The Impossible Port: Running a 28-Million Parameter LLM on an $8 ESP32](https://skrelectronicslab.com/running-28m-llm-on-esp32-offline/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Toolbox
 
