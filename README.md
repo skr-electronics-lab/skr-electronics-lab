@@ -9,7 +9,10 @@
 `making electronics easy for everyone` — India 🇮🇳
 
 [![Website](https://img.shields.io/badge/website-skrelectronicslab.com-5E6AD2?style=flat-square)](https://www.skrelectronicslab.com)
+[![YouTube](https://img.shields.io/badge/YouTube-SKR%20Electronics%20Lab-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skr_electronics_lab)
+[![Instagram](https://img.shields.io/badge/Instagram-%40skr__electronics__lab-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/skr_electronics_lab)
 [![X](https://img.shields.io/badge/X-%40skrelectronics-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/skrelectronics)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/skrelectronics)
 
 </div>
 
