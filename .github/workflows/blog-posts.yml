@@ -20,6 +20,5 @@ jobs:
           feed_list: "https://skrelectronicslab.com/feed/"
           max_post_count: 5
           readme_section: "blog-post-list"
-          template: "- <b>$title</b><br/>$date — $url"
-          date_format: "UTC:dd MMM yyyy"
+          template: "- [$title]($url)"
           commit_message: "chore: update blog post list"
