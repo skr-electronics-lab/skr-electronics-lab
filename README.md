@@ -50,8 +50,7 @@ IoT & Edge-AI firmware, Android/Flutter apps, Arduino libraries — India 🇮�
 | 💡 **[VibeLED](https://github.com/skr-electronics-lab/VibeLED)** | 50+ LED effects |
 
 ## 📝 Latest tutorials
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Build Your Own Smart Security Camera MotionCam-S3 using ESP32S3 Cam Module](https://skrelectronicslab.com/build-your-own-smart-security-camera-motioncam-s3-using-esp32s3-cam-module/)- [How to make Xiaozhi AI Chatbot on PCB](https://skrelectronicslab.com/how-to-make-xiaozhi-ai-chatbot-on-pcb/)- [ZhiNode MCP Server Pro](https://skrelectronicslab.com/zhinode-mcp-server-pro/)- [PixGen32: Voice-Controlled AI Image Generator using ESP32-S3](https://skrelectronicslab.com/pixgen32-esp32-s3-ai-image-generator/)- [The Impossible Port: Running a 28-Million Parameter LLM on an $8 ESP32](https://skrelectronicslab.com/running-28m-llm-on-esp32-offline/)<!-- BLOG-POST-LIST:END -->
 
 ## 🧰 Toolbox
 
