@@ -39,8 +39,7 @@
 | 💡 [**VibeLED**](https://github.com/skr-electronics-lab/VibeLED) | 50+ ready-made LED effects for Arduino projects |
 
 ## 📝 Latest from my blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- $datetimeFormat(2026-15-31, %e %b %Y) — [Build Your Own Smart Security Camera MotionCam-S3 using ESP32S3 Cam Module](https://skrelectronicslab.com/build-your-own-smart-security-camera-motioncam-s3-using-esp32s3-cam-module/)- $datetimeFormat(2026-00-30, %e %b %Y) — [How to make Xiaozhi AI Chatbot on PCB](https://skrelectronicslab.com/how-to-make-xiaozhi-ai-chatbot-on-pcb/)- $datetimeFormat(2026-35-29, %e %b %Y) — [ZhiNode MCP Server Pro](https://skrelectronicslab.com/zhinode-mcp-server-pro/)- $datetimeFormat(2026-19-31, %e %b %Y) — [PixGen32: Voice-Controlled AI Image Generator using ESP32-S3](https://skrelectronicslab.com/pixgen32-esp32-s3-ai-image-generator/)- $datetimeFormat(2026-14-28, %e %b %Y) — [The Impossible Port: Running a 28-Million Parameter LLM on an $8 ESP32](https://skrelectronicslab.com/running-28m-llm-on-esp32-offline/)<!-- BLOG-POST-LIST:END -->
 
 ## ⚙️ Stack
 
