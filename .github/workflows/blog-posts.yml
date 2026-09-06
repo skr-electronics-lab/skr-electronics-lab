@@ -1,0 +1,25 @@
+name: Update blog posts in README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://skrelectronicslab.com/feed/"
+          max_post_count: 5
+          readme_section: "blog-post-list"
+          template: "- $datetimeFormat($date, %e %b %Y) — [$title]($url)"
+          date_format: "UTC:yyyy-MM-dd"
+          commit_message: "chore: update blog post list"
