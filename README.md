@@ -13,6 +13,8 @@ IoT & Edge-AI firmware, Android/Flutter apps, Arduino libraries — India 🇮�
 
 </div>
 
+---
+
 ## 📡 IoT & Edge AI
 
 | | |
@@ -22,6 +24,7 @@ IoT & Edge-AI firmware, Android/Flutter apps, Arduino libraries — India 🇮�
 | 🤖 **[ZhiNode MCP Server Pro](https://skrelectronicslab.com/zhinode-mcp-server-pro/)** | Xiaozhi AI with a physical body on ESP32 |
 | 🎨 **[PixGen32](https://skrelectronicslab.com/pixgen32-esp32-s3-ai-image-generator/)** | Voice-controlled AI image generator |
 | 🖱️ **[ESP32-Air-Mouse-Pro](https://github.com/skr-electronics-lab/ESP32-Air-Mouse-Pro)** | Mid-air PC cursor control |
+| 📐 **[MotionSync3D](https://github.com/skr-electronics-lab/MotionSync3D-ESP32)** | 3D motion-sync firmware + browser installer |
 
 ## 📱 Apps & libraries
 
@@ -33,26 +36,36 @@ IoT & Edge-AI firmware, Android/Flutter apps, Arduino libraries — India 🇮�
 | 💡 **[VibeLED](https://github.com/skr-electronics-lab/VibeLED)** | 50+ LED effects |
 
 ## 📝 Latest tutorials
-<!-- BLOG-POST-LIST:START -->- [Build Your Own Smart Security Camera MotionCam-S3 using ESP32S3 Cam Module](https://skrelectronicslab.com/build-your-own-smart-security-camera-motioncam-s3-using-esp32s3-cam-module/)- [How to make Xiaozhi AI Chatbot on PCB](https://skrelectronicslab.com/how-to-make-xiaozhi-ai-chatbot-on-pcb/)- [ZhiNode MCP Server Pro](https://skrelectronicslab.com/zhinode-mcp-server-pro/)- [PixGen32: Voice-Controlled AI Image Generator using ESP32-S3](https://skrelectronicslab.com/pixgen32-esp32-s3-ai-image-generator/)- [The Impossible Port: Running a 28-Million Parameter LLM on an $8 ESP32](https://skrelectronicslab.com/running-28m-llm-on-esp32-offline/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## 📊 Stats
+## 🧰 Toolbox
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=cpp,arduino,android,dart,flutter,ts,html,css,platformio,git&theme=dark)](https://skillicons.dev)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FE7D37?style=for-the-badge&logo=platformio)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=skr-electronics-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5E6AD2&icon_color=5E6AD2&text_color=C9D1D9" alt="GitHub stats" height="150"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=skr-electronics-lab&layout=compact&hide_border=true&bg_color=0D1117&title_color=5E6AD2&text_color=C9D1D9&langs_count=8" alt="Top languages" height="150"/>
-</a>
+</div>
+
+## 🔥 Contribution streak
+
+<div align="center">
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=skr-electronics-lab&hide_border=true&theme=github-dark&ring=5E6AD2&fire=5E6AD2&currStreakNum=5E6AD2&sideNums=5E6AD2" alt="GitHub Streak" width="520"/>
 </a>
 
 </div>
+
+## 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skr-electronics-lab/skr-electronics-lab/output/github-contribution-grid-snake-dark.svg" />
